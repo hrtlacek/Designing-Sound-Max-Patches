@@ -530,7 +530,7 @@
 										}
 ,
 										"classnamespace" : "box",
-										"rect" : [ 67.0, 110.0, 640.0, 480.0 ],
+										"rect" : [ 67.0, 110.0, 783.0, 567.0 ],
 										"bglocked" : 0,
 										"openinpresentation" : 0,
 										"default_fontsize" : 12.0,
@@ -607,6 +607,43 @@
 											}
 , 											{
 												"box" : 												{
+													"coll_data" : 													{
+														"count" : 8,
+														"data" : [ 															{
+																"key" : 0,
+																"value" : [ 16 ]
+															}
+, 															{
+																"key" : 1,
+																"value" : [ 10.119999999999999 ]
+															}
+, 															{
+																"key" : 2,
+																"value" : [ 7.14 ]
+															}
+, 															{
+																"key" : 3,
+																"value" : [ 5.48 ]
+															}
+, 															{
+																"key" : 4,
+																"value" : [ 8 ]
+															}
+, 															{
+																"key" : 5,
+																"value" : [ 6.27 ]
+															}
+, 															{
+																"key" : 6,
+																"value" : [ 5.06 ]
+															}
+, 															{
+																"key" : 7,
+																"value" : [ 4.52 ]
+															}
+ ]
+													}
+,
 													"id" : "obj-70",
 													"maxclass" : "newobj",
 													"numinlets" : 1,
@@ -614,7 +651,7 @@
 													"outlettype" : [ "", "", "", "" ],
 													"patching_rect" : [ 50.0, 128.04718017578125, 121.0, 22.0 ],
 													"saved_object_attributes" : 													{
-														"embed" : 0
+														"embed" : 1
 													}
 ,
 													"text" : "coll doorResonances"
@@ -752,7 +789,7 @@
 							}
 , 							{
 								"box" : 								{
-									"cols" : 1,
+									"cols" : 2,
 									"fontface" : 0,
 									"fontname" : "Arial",
 									"fontsize" : 12.0,
@@ -762,7 +799,7 @@
 									"numoutlets" : 4,
 									"outlettype" : [ "list", "", "", "" ],
 									"patching_rect" : [ 252.83331298828125, 383.53778076171875, 149.056594848632813, 164.622634887695313 ],
-									"rows" : 1
+									"rows" : 8
 								}
 
 							}
@@ -1105,7 +1142,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 21.698112487792969, 230.188690185546875, 50.0, 22.0 ],
-					"text" : "814"
+					"text" : "608"
 				}
 
 			}
@@ -1480,7 +1517,7 @@
  ]
 					}
 ,
-					"patching_rect" : [ 300.24420166015625, 122.698883056640625, 89.0, 22.0 ],
+					"patching_rect" : [ 300.24420166015625, 201.698883056640625, 89.0, 22.0 ],
 					"saved_object_attributes" : 					{
 						"description" : "",
 						"digest" : "",
